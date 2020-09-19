@@ -10,8 +10,7 @@ Using public records and the INSEE ones I managed to gathers more than 600 peopl
 * deces-1970-1979-csv.zip: a zip contained 10 csv, one per year, with data on individuals who passed in the 70s. Obtained from the [INSEE website] (https://www.insee.fr/fr/information/4190491)
 * INSEE_formatting.ipynb: a notebook to format the data for INSEE in a way I find convenient. An example is provided for individuals who passed in the 70s but the script can be used for any INSEE input zip file.
 * Insee_70s.csv: the output of INSEE_formatting.ipynb, a single csv containing the data of all indiviudals who passed in the 70s.
-* Insee.zip: a zip containing the csv files for deaths in from the 1970 to 2019.
-* Insee_search.ipynb: a notebook which uses Insee.zip to search for individuals of interest.
+* Insee_search.ipynb: a notebook which uses Insee.zip generated from all the formatted and zipped decadal csv files to search for individuals of interest.
 
 ## License
 MIT License
