@@ -2,7 +2,7 @@
 Search for indivuals in the public death records provided by the French National Institute of Statistics and Economic Studies (INSEE).
 
 ## Context
-I took advantage of being confined at home in the spring of 2020 to work on my family tree. Records which are older than 100 years can be access online (for the most part). For privacy/legal reasons younger records can not be access. However the INSEE provides (only) the dates and places of birth and death of people who passed after 1970: [this page](https://www.insee.fr/fr/information/4190491) (in French). 
+I took advantage of being confined at home in the spring of 2020 to work on my family tree. French records which are older than 100 years can be access online (for the most part). For privacy/legal reasons younger records can not be access. However the INSEE provides (only) the dates and places of birth and death of people who passed after 1970: [this page](https://www.insee.fr/fr/information/4190491) (in French). 
 As the INSEE csv files contain in total more than 20+ million deaths I wrote a two codes in Python that allows me to format the data the way I find convenient and above all allows me to look for individuals of interest based on their name, years and places of birth or death if available. 
 Using public records and the INSEE ones I managed to gathers more than 600 people in my family tree and I got back to as early as the middle of the 17th century (a good aspect of the French bureaucracy!).
 
