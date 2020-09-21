@@ -1,5 +1,5 @@
 # About
-Search for indivuals in the public death records provided by the French National Institute of Statistics and Economic Studies (INSEE) containing ~2 million individuals.
+Search for indivuals in the public death records provided by the French National Institute of Statistics and Economic Studies (INSEE) containing ~2 million people.
 
 ## Context
 I took advantage of being confined at home in the spring of 2020 to work on my family tree. French records which are older than 100 years can be access online (for the most part). For privacy/legal reasons younger records can not be access. However the INSEE provides (only) the dates and places of birth and death of people who passed after 1970: [this page](https://www.insee.fr/fr/information/4190491) (in French). 
